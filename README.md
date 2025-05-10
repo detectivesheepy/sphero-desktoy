@@ -1,2 +1,2 @@
-# sphero-desktoy
-A Sphero script that turns your Sphero mini into a desktop pet.
+# Desktoy
+For docs, please click [here](https://lorenzolikesstuff.gitbook.io/desktoy).
